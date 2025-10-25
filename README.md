@@ -26,11 +26,13 @@ A full-stack web application that generates Ghibli-style AI images using the Sta
 ## ✨ Sample Output
 **Ghibli-style images generated from user prompts via Stability AI**
 
----
-***Text To Image***
+
+***Text To Image*** (Sample Prompt: dark high contrast render of a psychedelic tree of life illuminating dust in a mystical cave)
+
 <img width="1762" height="895" alt="Screenshot 2025-10-25 160659" src="https://github.com/user-attachments/assets/418b7f5a-5e5b-45eb-8f9d-be97cfc09d2a" />
 
 ***Image to Image***
+
 <img width="1872" height="732" alt="Screenshot 2025-10-25 160545" src="https://github.com/user-attachments/assets/003374d2-7d86-46f1-9d97-2c63c5d63362" />
 
 
