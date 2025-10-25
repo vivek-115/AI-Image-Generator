@@ -26,7 +26,7 @@ A full-stack web application that generates Ghibli-style AI images using the Sta
 ## ✨ Sample Output
 **Ghibli-style images generated from user prompts via Stability AI**
 
---
+---
 ***Text To Image***
 <img width="1762" height="895" alt="Screenshot 2025-10-25 160659" src="https://github.com/user-attachments/assets/418b7f5a-5e5b-45eb-8f9d-be97cfc09d2a" />
 
@@ -39,12 +39,3 @@ A full-stack web application that generates Ghibli-style AI images using the Sta
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/ghibli-ai-image-generator.git
-
-
-
-
-
-
-
-
-
